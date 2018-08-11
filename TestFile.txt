@@ -5,3 +5,4 @@ Created by Cyg.
 
 This file is manipulated on a new branch.
 Oh, another amend from another branch.
+Oh, the file on master is modified too.
